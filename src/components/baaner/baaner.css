@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+span a {
+  padding: 5px 10px;
+  background-color: #fcd980;
+  border-radius: 20px;
+  color: #000000;
+}
