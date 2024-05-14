@@ -5,3 +5,10 @@
 .menu_bg {
   background-color: #1c1e53;
 }
+.menu_bg .navbar-nav a,
+.btn a {
+  padding: 0 40px !important;
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+}
