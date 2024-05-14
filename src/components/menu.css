@@ -7,8 +7,12 @@
 }
 .menu_bg .navbar-nav a,
 .btn a {
-  padding: 0 40px !important;
+  padding: 10px 40px !important;
   color: #fff;
   font-family: "Open Sans", sans-serif;
-  font-size: 20px;
+  font-size: 18px;
+}
+.btn a {
+  border: 2px solid #818bbb;
+  border-radius: 20px;
 }
