@@ -4,6 +4,8 @@
 }
 .menu_bg {
   background-color: #1c1e53;
+  width: 100%;
+  height: auto;
 }
 .menu_bg .navbar-nav a,
 .btn a {
