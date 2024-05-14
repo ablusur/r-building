@@ -3,3 +3,14 @@
   padding: 0;
   color: red;
 }
+a {
+  text-decoration: none !important;
+  display: inline-block;
+  color: #fff;
+}
+img {
+  vertical-align: middle;
+}
+ul {
+  list-style: none;
+}

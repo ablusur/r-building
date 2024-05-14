@@ -1,10 +1,12 @@
+import Menu from "./components/Menu"
+
 function App() {
 
 
   return (
-    <>
-<h2>hello</h2>
-    </>
+  <>
+  <Menu/>
+  </>
   )
 }
 
