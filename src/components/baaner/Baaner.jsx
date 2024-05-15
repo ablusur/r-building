@@ -7,7 +7,7 @@ const Baaner = () => {
   return (
     <section>
         <Container-fluid>
-            <Row baaner_main>
+            <Row className="baaner_main">
                 <Col lg-6>
                     <div className="baaner_text">
                         <h2>Building stellar websites for early startups</h2>

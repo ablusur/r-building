@@ -8,15 +8,13 @@ span a {
   border-radius: 20px;
   color: #000000;
 }
-.main {
-  background-color: #1c1e53 !important;
-  width: 100%;
-  height: 50%;
+.baaner_main {
+  background-color: #1c1e53;
 }
 .baaner_text,
 .baaner_img {
   padding: 100px 60px;
-  background-color: #1c1e53;
+
   width: 100% !important;
   height: auto;
 }
