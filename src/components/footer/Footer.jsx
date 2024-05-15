@@ -22,9 +22,23 @@ const Footer = () => {
                         <h6>We are always to open the discuss your project and improve your online presence and help with your UI/XI design challanges.</h6>
                          <a href="#"><FaFacebook className='socalicon'/><CiTwitter className='socalicon'/><FaInstagram className='socalicon'/><CiLinkedin className='socalicon'/></a>
                     </div>
-
                 </Col>    
+                
+            </Row>
+            <Row className="copy_right">
+                <Col lg={6}><h6>Copyright-2022, Finsher.com</h6></Col>
 
+                <Col lg={6}>
+                <div >
+                <ul>
+                    <li><a href="Home"></a></li>
+                    <li><a href="About"></a></li>
+                    <li><a href="Servive"></a></li>
+                    <li><a href="FAQ"></a></li>
+                    <li><a href="Blog"></a></li>
+                </ul>
+            </div>
+                </Col>
             </Row>
             
         </Container-fluid>

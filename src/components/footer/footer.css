@@ -9,11 +9,13 @@
 .footer_right {
   padding: 0px 200px;
 }
+
 .footer_right h1,
 h6 {
   color: #fff;
 }
 .footer_right h6 {
+  margin-bottom: 30px;
   color: #fff;
 }
 /* .footer_right a {
@@ -23,4 +25,12 @@ h6 {
   padding-right: 20px 40px;
   color: #fff;
   font-size: 25px;
+}
+.copy_right {
+  background-color: bisque;
+  color: #000000;
+}
+.copy_right h6 {
+  margin-top: 10%;
+  padding: 0 20px;
 }
