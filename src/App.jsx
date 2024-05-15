@@ -1,5 +1,6 @@
 import Menu from "./components/Menu"
 import Baaner from "./components/baaner/Baaner"
+import Works from "./components/work/Works"
 
 function App() {
 
@@ -8,7 +9,9 @@ function App() {
   <>
   <Menu/>
   <Baaner/>
+  <Works/>
   </>
+
   )
 }
 
