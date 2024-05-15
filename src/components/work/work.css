@@ -1,0 +1,18 @@
+img {
+  width: 100%;
+  width: auto;
+}
+.a_icon img {
+  width: 8%;
+  height: auto;
+}
+.work_test {
+  padding: 20px 50px;
+}
+.work_main {
+  background: #f4f6fc;
+  padding: 100px 0;
+}
+.about_item {
+  padding: 20px 50px;
+}
