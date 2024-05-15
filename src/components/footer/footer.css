@@ -1,0 +1,18 @@
+.footer_main {
+  background-color: #1c1e53;
+  padding: 150px 50px;
+}
+.footer_left h6 {
+  color: white;
+  margin-top: 30px;
+}
+.footer_right {
+  padding: 0px 200px;
+}
+.footer_right h1,
+h6 {
+  color: #fff;
+}
+.footer_right h6 {
+  color: #fff;
+}

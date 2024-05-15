@@ -1,5 +1,6 @@
 import Menu from "./components/Menu"
 import Baaner from "./components/baaner/Baaner"
+import Footer from "./components/footer/Footer"
 import Works from "./components/work/Works"
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
   <Menu/>
   <Baaner/>
   <Works/>
+  <Footer/>
   </>
 
   )
