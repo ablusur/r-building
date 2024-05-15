@@ -16,3 +16,11 @@ h6 {
 .footer_right h6 {
   color: #fff;
 }
+/* .footer_right a {
+  padding: 0px 40px !important;
+} */
+.socalicon {
+  padding-right: 20px 40px;
+  color: #fff;
+  font-size: 25px;
+}
