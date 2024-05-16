@@ -31,8 +31,6 @@ img {
   font-size: 30px;
   color: #fff;
 }
-.baaner_text,
-p {
-  /* padding: 20px 0; */
-  /* color: #fff; */
+.baaner_text p {
+  color: #fff;
 }
