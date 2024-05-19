@@ -4,7 +4,7 @@
 }
 #faq {
   padding: 150px 0;
-  background-color: #808080;
+  background-color: hsl(0, 20%, 95%);
 }
 .faq_left {
 }
@@ -30,19 +30,22 @@
   box-shadow: none;
 }
 .faq_right .accordion-item {
-  border-bottom: 2px solid rgb(90, 65, 65);
+  border-bottom: 2px solid rgb(228, 223, 223);
   border-radius: 5px;
 }
 .faq_right h4 {
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 500;
   line-height: 40px;
   text-align: left;
 }
 .faq_right p {
   font-size: 18px;
-  font-weight: 500;
-  line-height: 32px;
+  font-weight: 400;
+  line-height: 20px;
   text-align: left;
   padding-left: 50px;
+}
+.white {
+  color: #2405f2;
 }
