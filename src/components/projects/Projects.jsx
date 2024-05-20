@@ -37,13 +37,13 @@ const Projects = () => {
                 <div className="project_right_top">
                     <div className="project_content">
                         <h3>Unsisis project disign</h3>
-                        <p>View Projects <FaArrowRightLong/></p>
+                        <h6>View Projects <FaArrowRightLong/></h6>
                     </div>
                 </div>
                 <div className="project_right_bottom">
                     <div className="project_content">
                         <h3>Unsisis project disign</h3>
-                        <p>View Projects <FaArrowRightLong/></p>
+                        <h6>View Projects <FaArrowRightLong/></h6>
                     </div>
                 </div>
             </div>
