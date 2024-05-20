@@ -1,5 +1,6 @@
 import Menu from "./components/Menu"
 import Baaner from "./components/baaner/Baaner"
+import Blog from "./components/blog/Blog"
 import Faqs from "./components/faq/Faqs"
 import Feature from "./components/feature/Feature"
 import Footer from "./components/footer/Footer"
@@ -17,6 +18,7 @@ function App() {
   <Feature/>
   <Projects/>
   <Faqs/>
+  <Blog/>
   <Footer/>
   </>
 

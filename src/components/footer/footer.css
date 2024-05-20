@@ -29,6 +29,7 @@ h6 {
 .copy_right {
   background-color: bisque;
   color: #000000;
+  text-align: end;
 }
 .copy_right h6 {
   margin-top: 10%;
